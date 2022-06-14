@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="connection_problem">Connection Problem!!</string>
+    <string name="movie">Movie</string>
+    <string name="_2019">2019</string>
+    <string name="todo">TODO</string>
+    <string name="error_message">Error Message</string>
+</resources>
